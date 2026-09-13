@@ -1,0 +1,6 @@
+Architecture,Parameters,Depth,Skip_Type,Best_Test_Acc
+Multi-Skip-20,0.35M,20,Multi-Layer,83.5
+ResNet-20,0.27M,20,Standard,81.99
+ResNet-32,0.46M,32,Standard,79.94
+PlainNet-20,0.27M,20,None,74.19
+Optimized-32,0.46M,32,Standard,70.13000000000001

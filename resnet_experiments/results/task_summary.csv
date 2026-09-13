@@ -1,0 +1,18 @@
+Task,Val_Acc,Test_Acc,Test_Loss
+Task 1: ResNet-20 Baseline,79.97%,81.99%,0.5409
+Task 2: ResNet-20 (Proj B),77.99%,79.37%,0.6248
+Task 2: PlainNet-20,74.87%,74.19%,0.7683
+Task 3: ResNet-20,78.53%,80.01%,0.6182
+Task 3: ResNet-32,78.44%,80.30%,0.6003
+Task 3: ResNet-44,78.65%,78.42%,0.6533
+Task 4: ResNet-20 Multi-Skip,80.95%,83.50%,0.5195
+Task 5: ResNet-32 Proj A,77.96%,79.27%,0.6266
+Task 5: ResNet-32 Proj B,78.13%,79.94%,0.5990
+Task 6: Plain-20,68.54%,65.21%,0.7842
+Task 6: Plain-32,64.02%,67.01%,0.9488
+Task 6: Plain-44,48.75%,47.41%,1.2717
+Task 6: Plain-56,37.13%,38.21%,1.6335
+Task 6: ResNet-20,72.08%,73.06%,0.7048
+Task 6: ResNet-32,71.71%,71.98%,0.7374
+Task 6: ResNet-44,68.78%,69.76%,0.8776
+Task 6: ResNet-56,64.78%,65.27%,0.9440

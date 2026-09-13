@@ -1,0 +1,7 @@
+Model,Epochs_to_Best,Total_Epochs,Best_Accuracy,Efficiency_Score
+ResNet-20 (Proj B),16,20,77.99%,4.59
+PlainNet-20,16,20,74.87%,4.40
+ResNet-20,17,20,78.53%,4.36
+ResNet-32,18,20,78.44%,4.13
+ResNet-44,19,20,78.65%,3.93
+ResNet-20,28,30,79.97%,2.76
